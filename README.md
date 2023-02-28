@@ -9,4 +9,4 @@ Using this server is simple!
 3. Run nodemon. If successful, the server should run on Port 4000 and display a success message in the terminal.
 
 ### A Note:
-While this server should require no additional changes to support the code-along content, if you feel comfortable with express servers feel free to explore the itunes API and build more routes to support and expand your application!
+While this server should require no additional changes to support the code-along content, if you feel comfortable with express servers feel free to explore the itunes API and build more routes to support and expand your application! submit
